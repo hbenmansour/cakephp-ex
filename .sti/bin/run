@@ -2,4 +2,4 @@
 
 echo "Hellooooooooooooooooooooooooooooo"
 
-/usr/local/sti/run
+./usr/local/sti/run
