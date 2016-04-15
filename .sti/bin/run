@@ -2,4 +2,4 @@
 
 echo "Hellooooooooooooooooooooooooooooo"
 
-./usr/local/sti/run
+. /usr/libexec/s2i/run
