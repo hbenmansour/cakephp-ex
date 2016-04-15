@@ -1,5 +1,0 @@
-#!/bin/bash -e
-
-echo "Hellooooooooooooooooooooooooooooo"
-
-/usr/local/sti/run
